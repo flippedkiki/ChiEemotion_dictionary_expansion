@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ChSentiment.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ChSentiment/主张词语（中文）.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ChSentiment/正面情感词语（中文）.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ChSentiment/正面评价词语（中文）.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ChSentiment_result" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/ChSentiment_result" charset="GB2312" />
+  </component>
+</project>
